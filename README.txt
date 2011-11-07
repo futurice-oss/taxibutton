@@ -20,6 +20,8 @@ __ Quick HOWTO __
 
 Read all the code. It won't run without modifications. At least API keys and serial ports must be changed.
 
+Read http://blog.futurice.com/one-click-taxi-order/ (you probably came from there)
+
 1) Connect button to Arduino, upload button.pde from arduino subdirectory.
 2) Install kannel
 3) Install mobile broadband USB stick
