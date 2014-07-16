@@ -2,9 +2,9 @@
 
 == License 
 
-This bunch of files is licensed with GNU GPLv3. See LICENSE.txt for details.
+This bunch of files is licensed with BSD 3-clause license. See LICENSE.md for details.
 
-Some parts of it are not covered by GPL. Files and parts of files that are not include text claiming that.
+Some parts of it are not covered by the same license. Files and parts of files that are not include text claiming that.
 
 == Credits
 
