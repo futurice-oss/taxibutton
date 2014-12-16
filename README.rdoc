@@ -4,7 +4,7 @@
 
 This bunch of files is licensed with BSD 3-clause license. See LICENSE.md for details.
 
-Some parts of it are not covered by the same license. Files and parts of files that are not include text claiming that.
+Some parts of it are not covered by the same license. Files and parts of files that have different license contain comment explaining that.
 
 == Credits
 
@@ -28,9 +28,9 @@ For API keys,
 
 Read {our blog post}[http://blog.futurice.com/one-click-taxi-order/] (you probably came from there)
 
-1. Connect button to Arduino, upload button.pde from arduino subdirectory.
+1. Connect button to Arduino (remember to add pull-up resistor, see for example {this tutorial}(http://arduino.cc/en/tutorial/button)) and upload button.pde from arduino subdirectory.
 2. Install kannel
-3. Install mobile broadband USB stick
+3. Install mobile broadband USB stick (or modify the code to use some commercial SMS gateway)
 4. Configure SIM card
    - disable PIN questioning from SIM card with mobile phone
    - add call forwarding to switchboard or similar
@@ -43,5 +43,4 @@ Read {our blog post}[http://blog.futurice.com/one-click-taxi-order/] (you probab
 11. Debug. Don't send test messages to taxi ordering number, use your own mobile phone number for that.
 
 
-Feel free to contact <olli.jarva@futurice.com> if you have some problems. I'll try to answer, but I
-can't make any promises on that matter.
+Feel free to contact <olli.jarva@futurice.com> when you have any problems. I'll try to answer, but I can't make any promises.
