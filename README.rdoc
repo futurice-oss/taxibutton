@@ -26,7 +26,7 @@ For API keys,
 - HSL: http://developer.reittiopas.fi/pages/fi/account-request.php?lang=EN
 - weatherbug: http://weather.weatherbug.com/desktop-weather/api.html
 
-Read {our blog post}[http://blog.futurice.com/one-click-taxi-order/] (you probably came from there)
+Read {our blog post}[http://futurice.com/blog/one-click-taxi-ordering] (you probably came from there)
 
 1. Connect button to Arduino (remember to add pull-up resistor, see for example {this tutorial}(http://arduino.cc/en/tutorial/button)) and upload button.pde from arduino subdirectory.
 2. Install kannel
